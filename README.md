@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Karthick-MK
-- 👀 I’m interested in Full Stack Development.
+- 👀 I’m working as Full Stack Development in Xola.com (https://github.com/KarthickXola).
 - 🌱 I’m currently learning Cloud Services, ML & AI, Blockchain..
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ Learning ML, AI, and new web techs..  
+- 📫 Reach me at karthick3m@gmail.com
 
 <!---
 Karthick-MK/Karthick-MK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
